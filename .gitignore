@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore
+data/Spill_Incidents_20241107.csv
+data/tl_2023_us_county/
+
 # Distribution / packaging
 .Python
 build/
